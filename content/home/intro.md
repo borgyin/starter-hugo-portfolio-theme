@@ -16,6 +16,8 @@ design:
 #    video:
 #      path:  # enter filename of a video in /assets/media
  css_class: fullscreen
+ space:
+   padding: ["20px", "0", "20px", "0"]
 ---
 
 👋 Hi! I'm **Borg**, a Ph.D. candicate in Electronics and ICT Engineering at [Ghent University](https://www.ugent.be/en), Belgium.
