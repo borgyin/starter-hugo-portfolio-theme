@@ -21,6 +21,7 @@ design:
 ---
 
 <br>
+<br>
 
 👋 Hi! I'm **Borg**, a Ph.D. candicate in Electronics and ICT Engineering at [Ghent University](https://www.ugent.be/en), Belgium.
 {style="font-size: 1.2rem;"}
