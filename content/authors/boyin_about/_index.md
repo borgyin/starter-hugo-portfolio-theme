@@ -1,9 +1,8 @@
 ---
 # Display name
-title: Bo Yin
-
+# title: 
 # Is this the primary user of the site?
-superuser: true
+# superuser: false
 
 # Role/position
 # role: ''
@@ -61,7 +60,7 @@ superuser: true
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-highlight_name: true
+# highlight_name: true
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
