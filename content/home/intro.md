@@ -23,8 +23,8 @@ design:
 <br>
 <br>
 
-👋 Hi! I'm **Borg**, a Ph.D. candicate in Electronics and ICT Engineering at [Ghent University](https://www.ugent.be/en), Belgium.
-{style="font-size: 1.2rem;"}
+👋 Hi! I'm **Borg**, a Ph.D. candidate in Electronics and ICT Engineering at [**Ghent University**](https://www.ugent.be/en), Belgium.
+{style="font-size: 1.2rem; background: #FFB76B;"}
 <!-- {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
 
 <!-- Check out my [resumé](/about/) and portfolio below  -->
