@@ -6,14 +6,14 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 10
 
-title: 联系我
+title: Contact me
 subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Email form provider
 #  form:
@@ -41,5 +41,6 @@ content:
   office_hours:
     - '周一到周五, 9:00-22:00 (CET)'
 design:
-  columns: '2'
+  columns: '1'
+  css_class: fullscreen
 ---
