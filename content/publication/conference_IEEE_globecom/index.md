@@ -1,7 +1,7 @@
 ---
 title: "Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things"
 authors:
-- BoYin
+- boyin_pub
 - Jianhua Tang
 - Miaowen Wen
 author_notes:
