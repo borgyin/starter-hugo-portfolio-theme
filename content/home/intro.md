@@ -9,13 +9,13 @@ headless: true
 weight: 10
 
 author: admin
-# design:
+design:
 #   background:
 #     color: '#badaff'
 #     text_color_light: false
 #    video:
 #      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+ css_class: fullscreen
 ---
 
 👋 Hi! I'm **Borg**, a Ph.D. candicate in Electronics and ICT Engineering at [Ghent University](https://www.ugent.be/en), Belgium.
