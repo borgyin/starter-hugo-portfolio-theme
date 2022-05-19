@@ -39,16 +39,6 @@ projects: []
 slides: ""
 # slides: example
 
-# 是否是特别页面
-featured: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
-
 # 链接 # 号会返回
 links:
 - name: EI
