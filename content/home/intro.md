@@ -9,10 +9,10 @@ headless: true
 weight: 10
 
 author: admin
-design:
-  background:
-    color: '#badaff'
-    text_color_light: false
+# design:
+#   background:
+#     color: '#badaff'
+#     text_color_light: false
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
