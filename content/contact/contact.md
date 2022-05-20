@@ -39,7 +39,7 @@ content:
     longitude: '3.7079836845628007'
   directions: 337, Qingqing Building
   office_hours:
-    - 'Mon. - Fir., 9:00am - 10:00pm (CET)'
+    - 'Monday - Friday, 9:00 AM - 10:00 PM (CET)'
 design:
   columns: '1'
   css_class: fullscreen

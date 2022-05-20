@@ -1,7 +1,5 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -12,30 +10,15 @@ weight: 10
 title: Publications
 subtitle:
 
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
 
+design:
   view: citation
   css_class: fullscreen
   columns: '1'
 ---
 
+BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
 
+BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
+
+BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
