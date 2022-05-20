@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '3.7079836845628007'
-    longitude: '51.012924575018836'
+    latitude: '51.012924575018836'
+    longitude: '3.7079836845628007'
   directions: 337, Qingqing Building
   office_hours:
     - '周一到周五, 9:00-22:00 (CET)'
