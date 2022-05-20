@@ -16,7 +16,7 @@ design:
 ## **Submitted/Accepted/Published Journal Papers**
 
 {{< icon name="bookmark" pack="fas" >}}[J02] **Bo Yin**, Jianhua Tang, Miaowen Wen, "*Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services*," Submitted to [IEEE Transactions on Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26) (JCR Q1, IF:5.083).\
-{{< icon name="file" pack="fas" >}}
+{{< icon name="file" pack="far" >}}
 
 {{< icon name="bookmark" pack="fas" >}}[J01] **Bo Yin**, Jianhua Tang, Miaowen Wen, "*On the Connectivity Maximization in NOMA-Aided Industrial IoT with Multiple Services*," Submitted to [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) (JCR Q1, IF:4.348).
 
