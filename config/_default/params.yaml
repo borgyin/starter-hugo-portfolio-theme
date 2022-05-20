@@ -101,3 +101,6 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+plugins_js:
+  [custom_js]
