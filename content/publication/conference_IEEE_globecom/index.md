@@ -51,6 +51,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+design:
+  css_class: fullscreen
 ---
 
 <!-- {{% callout note %}}
