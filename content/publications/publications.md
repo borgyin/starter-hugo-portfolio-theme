@@ -13,16 +13,12 @@ design:
   columns: '1'
 ---
 
-{{< spoiler text="**Click to view the spoiler**" >}}
-You found me!
-{{< /spoiler >}}
-
-
 ## **Submitted/Accepted/Published Journal Papers**
-[J01] BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
 
-BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
+[J02] **Bo Yin**, Jianhua Tang, Miaowen Wen, "Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services," Submitted to IEEE Transactions on Communications (*JCR Q1, IF:5.083*).
 
-BoYin, Jianhua Tang, Miaowen Wen (2022). Connectivity Maximization in Non-orthogonal Network Slicing Enabled Industrial Internet-of-Things with Multiple Services. Submitted to IEEE TCOM (JCR Q1, IF:5.083).
+[J01] **Bo Yin**, Jianhua Tang, Miaowen Wen, "On the Connectivity Maximization in NOMA-Aided Industrial IoT with Multiple Services," Submitted to IEEE Wireless Communications Letters (*JCR Q1, IF:4.348*).
 
 ## **Conference Papers**
+
+[C01] **Bo Yin**, Jianhua Tang and Miaowen Wen, "Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things," 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, Dec. 2021, pp. 1-6.
