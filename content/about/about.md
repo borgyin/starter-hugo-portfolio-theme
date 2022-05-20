@@ -14,7 +14,7 @@ design:
 
 ## **Biography**
 
-Mr. Yin was born in 1996, he received a bachelor's degree in engineering and a master's degree in engineering from South China University of Technology (Guangzhou, China) in 2019 and 2022, respectively. He is currently pursuing a PhD in the Waves Research Group under the Department of Information Technology at the Faculty of Engineering and Architecture of the University of Ghent, Belgium.
+Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. He is currently pursuing a Ph.D. degree at Ghent University, Belgium.
 
 My research interests include wireless communications, machine learning, and convex optimization.
 
@@ -24,11 +24,15 @@ My research interests include wireless communications, machine learning, and con
 
 ## **Education**
 
-{{< icon name="graduation-cap" pack="fas" >}} Ph.D. in Electronics and ICT Engineering, now\
+{{< icon name="graduation-cap" pack="fas" >}} *Ph.D.* in Electronics and ICT Engineering, now\
 Ghent University
 
-{{< icon name="graduation-cap" pack="fas" >}} M.Eng. in Information and Communication Engineering, 2022\
+{{< icon name="graduation-cap" pack="fas" >}} *M.Eng.* in Information and Communication Engineering, 2022\
 South China University of Technology
 
-{{< icon name="graduation-cap" pack="fas" >}} B.Eng. in Information Engineering, 2019\
+{{< icon name="graduation-cap" pack="fas" >}} *B.Eng.* in Information Engineering, 2019\
 South China University of Technology
+
+---
+
+## **Honors & Awards**
