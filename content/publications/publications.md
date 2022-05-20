@@ -19,9 +19,7 @@ design:
 {{< icon name="file" pack="far" >}}
 
 {{< icon name="bookmark" pack="fas" >}}[J01] **Bo Yin**, Jianhua Tang, Miaowen Wen, "*On the Connectivity Maximization in NOMA-Aided Industrial IoT with Multiple Services*," Submitted to [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) (JCR Q1, IF:4.348).\
-{{< icon name="file" pack="far" >}}
-
-<br>
+{{< icon name="file" pack="far" >}}\
 
 ## **Conference Papers**
 
