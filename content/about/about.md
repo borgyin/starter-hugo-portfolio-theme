@@ -18,11 +18,11 @@ Mr. Yin was born in 1996, he received a bachelor's degree in engineering and a m
 
 My research interests include wireless communications, machine learning, and convex optimization.
 
-<br>
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
 ## **Education**
 
-{{< icon name="graduation-cap" pack="fas" >}} P.hD. in Information Engineering\
+{{< icon name="graduation-cap" pack="fas" >}} Ph.D. in Electronics and ICT Engineering, now\
 Ghent University
 
 {{< icon name="graduation-cap" pack="fas" >}} M.Eng. in Information and Communication Engineering, 2022\
