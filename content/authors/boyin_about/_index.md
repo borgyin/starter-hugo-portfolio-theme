@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bo (Borg) Yin
+# title: 
 # Is this the primary user of the site?
 # superuser: false
 
