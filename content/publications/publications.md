@@ -5,7 +5,7 @@ headless: true
 
 weight: 10
 
-title: Publications
+title: All Publications
 
 design:
   view: citation
