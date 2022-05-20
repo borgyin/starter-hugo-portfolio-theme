@@ -22,11 +22,11 @@ My research interests include wireless communications, machine learning, and con
 
 ## **Education**
 
-{{< icon name="graduation-cap" pack="fas" >}} P.hD. in Information Engineering
+{{< icon name="graduation-cap" pack="fas" >}} P.hD. in Information Engineering\
 Ghent University
 
-{{< icon name="graduation-cap" pack="fas" >}} M.Eng. in Information and Communication Engineering, 2022
+{{< icon name="graduation-cap" pack="fas" >}} M.Eng. in Information and Communication Engineering, 2022\
 South China University of Technology
 
-{{< icon name="graduation-cap" pack="fas" >}} B.Eng. in Information Engineering, 2019
+{{< icon name="graduation-cap" pack="fas" >}} B.Eng. in Information Engineering, 2019\
 South China University of Technology
