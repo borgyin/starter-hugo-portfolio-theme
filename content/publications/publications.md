@@ -27,3 +27,11 @@ design:
 
 {{< icon name="bookmark" pack="fas" >}}[C01] **Bo Yin**, Jianhua Tang$^\mathbb{*}$ and Miaowen Wen, "*Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things*," [2021 IEEE Global Communications Conference (GLOBECOM)](https://globecom2021.ieee-globecom.org/), Madrid, Spain, Dec. 2021, pp. 1-6.\
 {{< icon name="file" pack="far" >}} {{< icon name="doi" pack="ai" >}}
+
+<br>
+
+## **Thesis**
+
+{{< icon name="graduation-cap" pack="fas" >}} **Bo Yin**, "*Research on Connectivity Maximization of Industrial Internet-of-Things with Multiple Services*," 2022. Supervisor: Miaowen Wen.
+
+{{< icon name="graduation-cap" pack="fas" >}} **Bo Yin**, "*Animal detection and recognition based on deep learning*," 2019. Supervisor: Minghui Du
