@@ -20,7 +20,7 @@ My research interests include wireless communications, machine learning, and con
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV here.
 
----
+<br>
 
 ## **Education**
 
@@ -32,7 +32,3 @@ South China University of Technology
 
 {{< icon name="graduation-cap" pack="fas" >}} **B.Eng.** in Information Engineering, 2019\
 South China University of Technology
-
----
-
-## **Honors & Awards**
