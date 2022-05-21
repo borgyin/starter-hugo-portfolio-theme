@@ -40,7 +40,8 @@ header:
 
 footer:
   design:
-    color: '#000000'
+    background:
+      color: '#000000'
   copyright:
     notice: '© 2022-{year} Bo Yin. This work is licensed under {license}'
     license:
