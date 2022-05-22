@@ -20,8 +20,6 @@ My research interests include wireless communications, machine learning, and con
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV here.
 
-<br>
-
 ## **Education**
 
 {{< icon name="graduation-cap" pack="fas" >}} **Ph.D.** in Electronics and ICT Engineering, now\
