@@ -18,7 +18,7 @@ Mr. Yin was born in 1997. He received the B.Eng. and M.Eng. degree from South Ch
 
 My research interests include wireless communications, machine learning, and convex optimization.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV here.
+{{< icon name="download" pack="fas" >}} Download my CV {{< staticref "uploads/resume.pdf" "newtab" >}} here {{< /staticref >}}.
 
 <br>
 
