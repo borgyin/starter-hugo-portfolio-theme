@@ -33,6 +33,6 @@ South China University of Technology
 {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, 2019\
 South China University of Technology
 
-{{< spoiler text="Click to view the spoiler" >}}
+{{< spoiler text="" >}}
 You found me!
 {{< /spoiler >}}
