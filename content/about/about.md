@@ -30,9 +30,9 @@ Ghent University
 ### {{< icon name="graduation-cap" pack="fas" >}} M.Eng. in **Information and Communication Engineering**, 2022
 South China University of Technology
 
-### {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, 2019
+### {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, Sept. 2015 - Jul. 2019
 ##### South China University of Technology
 {{< spoiler text="" >}}
-Linear Algebra & Analytic Geometry: 100
-1 
+- Linear Algebra & Analytic Geometry: 100 
+- 1 
 {{< /spoiler >}}
