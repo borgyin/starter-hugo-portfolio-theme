@@ -34,5 +34,8 @@ Ghent University
 ##### South China University of Technology (3.81/4.0)
 {{< spoiler text="" >}}
 - Linear Algebra & Analytic Geometry: 100 
+- Probability & Mathematical Statistics: 95
 - Signals and Systems: 97
+- Analog Electronics: 97
+- Basic Theory of Information: 93
 {{< /spoiler >}}
