@@ -7,12 +7,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
+  - name: Education
     url: about/
     weight: 20
   - name: Publications
     url: publications/
     weight: 30
-  - name: Contact
+  - name: Contact Me
     url: contact/
     weight: 40
