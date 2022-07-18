@@ -30,8 +30,8 @@ Ghent University
 ### {{< icon name="graduation-cap" pack="fas" >}} M.Eng. in **Information and Communication Engineering**, 2022
 South China University of Technology
 
-#### {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, 2019
-South China University of Technology
+### {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, 2019
+##### South China University of Technology
 {{< spoiler text="" >}}
 You found me!
 {{< /spoiler >}}
