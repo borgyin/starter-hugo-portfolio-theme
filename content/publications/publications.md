@@ -33,7 +33,7 @@ design:
 ## **Dissertation**
 
 {{< icon name="graduation-cap" pack="fas" >}} **Bo Yin**, "*Research on Connectivity Maximization of Industrial Internet-of-Things with Multiple Services*," 2022.\
-Supervisor: Prof. Miaowen Wen.
+Supervisor: Prof. Miaowen Wen. Co-supervisor: Jianhua Tang.
 
 {{< icon name="graduation-cap" pack="fas" >}} **Bo Yin**, "*Animal detection and recognition based on deep learning*," 2019.\
 Supervisor: Prof. Minghui Du.
