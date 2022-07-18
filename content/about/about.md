@@ -14,7 +14,7 @@ design:
 
 ## **Biography**
 
-Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology (SCUT), Guangzhou, China, in 2019 and 2022, respectively. He is currently pursuing a Ph.D. degree in the department of information technology at Ghent University, Belgium.
+Mr. Yin was born in 1996. He received the B.Eng. and M.Eng. degree from South China University of Technology (SCUT), Guangzhou, China, in 2019 and 2022, respectively. He is currently pursuing a Ph.D. degree in the department of information technology at Ghent University.
 
 My research interests include wireless communications, machine learning, and convex optimization.
 
@@ -31,7 +31,8 @@ Ghent University
 South China University of Technology
 
 {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, 2019\
-South China University of Technology\
+South China University of Technology
+
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
 {{< /spoiler >}}
