@@ -28,11 +28,11 @@ My research interests include wireless communications, machine learning, and con
 Ghent University
 
 ### {{< icon name="graduation-cap" pack="fas" >}} M.Eng. in **Information and Communication Engineering**, Sept. 2019 - Jul. 2022
-South China University of Technology
+##### South China University of Technology (90.1/100)
 
 ### {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, Sept. 2015 - Jul. 2019
-##### South China University of Technology *GPA: 3.81/4.0*
+##### South China University of Technology (3.81/4.0)
 {{< spoiler text="" >}}
 - Linear Algebra & Analytic Geometry: 100 
-- 1 
+- Signals and Systems: 97
 {{< /spoiler >}}
