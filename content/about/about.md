@@ -38,4 +38,5 @@ Ghent University
 - Signals and Systems: 97
 - Analog Electronics: 97
 - Basic Theory of Information: 93
+- Software Engineering: 91
 {{< /spoiler >}}
