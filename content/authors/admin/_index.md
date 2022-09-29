@@ -65,7 +65,7 @@ social:
     link: https://scholar.google.com/citations?user=Kn9pj78AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/bo-yin-453760251/
 
 # Uncomment below for Github link
 #- icon: github
