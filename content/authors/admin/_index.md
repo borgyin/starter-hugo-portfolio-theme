@@ -53,7 +53,7 @@ social:
     link: https://www.facebook.com/profile.php?id=100086152720392 
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/bborg.yin/
   - icon: github
     icon_pack: fab
     link: https://github.com/borgyin
