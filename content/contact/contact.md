@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: bborg.yin@gmail.com
-  phone: (+86)155 211 56640
+  phone: (+32)0456 59 58 45, (+86)155 211 566 40
   address:
     street: 381 Wushan
     city: Guangzhou
