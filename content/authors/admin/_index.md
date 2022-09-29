@@ -66,6 +66,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bo-yin-453760251/
+  - icon: zhihu
+    icon_pack: custom
+    link: 
 
 # Uncomment below for Github link
 #- icon: github
