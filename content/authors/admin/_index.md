@@ -47,13 +47,23 @@ social:
     link: "mailto:bborg.yin@gmail.com" # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/Borgyin96
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100086152720392 
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/borgyin
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0003-4784-7738
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Kn9pj78AAAAJ
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
