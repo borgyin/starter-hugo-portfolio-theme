@@ -50,7 +50,7 @@ social:
     link: https://twitter.com/Borgyin96
   - icon: facebook
     icon_pack: fab
-    link: https://www.facebook.com/profile.php?id=100086152720392 
+    link: https://www.facebook.com/9603yin
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/bborg.yin/
@@ -59,10 +59,13 @@ social:
     link: https://github.com/borgyin
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0003-4784-7738
+    link: https://orcid.org/0000-0003-4784-7738
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Kn9pj78AAAAJ
+    link: https://scholar.google.com/citations?user=Kn9pj78AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: 
 
 # Uncomment below for Github link
 #- icon: github
