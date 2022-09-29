@@ -25,15 +25,15 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bborg.yin@gmail.com
-  phone: (+32)0456 59 58 45, (+86)155 211 566 40
+  email: bborg.yin@gmail.com (preferred), bo.yin@ugent.be
+  phone: +32 0456 59 58 45, +86 155 211 566 40
   address:
-    street: 381 Wushan
-    city: Guangzhou
-    region: Guangdong
-    postcode: '510641'
-    country: China
-    country_code: CN
+    street: Stalhof 47
+    city: Ghent
+    region: Belgium
+    postcode: '9000'
+    country: Belgium
+    country_code: BEL
   coordinates:
     latitude: '51.012924575018836'
     longitude: '3.7079836845628007'
