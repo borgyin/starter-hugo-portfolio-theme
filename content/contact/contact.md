@@ -28,16 +28,15 @@ content:
   email: bborg.yin@gmail.com (preferred), bo.yin@ugent.be
   phone: +32 0456 59 58 45, +86 155 211 566 40
   address:
-    street: Stalhof 47
+    street: Technologiepark-Zwijnaarde 126
     city: Ghent
     region: Belgium
-    postcode: '9000'
+    postcode: '9052'
     country: Belgium
     country_code: BEL
   coordinates:
     latitude: '51.012924575018836'
     longitude: '3.7079836845628007'
-  directions: 337, Qingqing Building
   office_hours:
     - '9:00 AM - 10:00 PM, Mon. to Fri. (CET)'
 design:
