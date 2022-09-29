@@ -23,7 +23,7 @@ design:
 ## **Submitted/Accepted/Published Conference Papers**
 
 {{< icon name="bookmark" pack="fas" >}}[C01] **Bo Yin**, Jianhua Tang$^\mathbb{*}$ and Miaowen Wen, "*Maximizing the Connectivity of Wireless Network Slicing Enabled Industrial Internet-of-Things*," [2021 IEEE Global Communications Conference (GLOBECOM)](https://globecom2021.ieee-globecom.org/), Madrid, Spain, Dec. 2021, pp. 1-6.\
-{{< icon name="file-pdf" pack="far" >}} [{{< icon name="doi" pack="ai" >}}](https://ieeexplore.ieee.org/document/9685411)
+{{< staticref "publications/9685411.pdf" "newtab" >}} {{< icon name="file-pdf" pack="far" >}} {{< /staticref >}} [{{< icon name="doi" pack="ai" >}}](https://ieeexplore.ieee.org/document/9685411)
 
 <br>
 
