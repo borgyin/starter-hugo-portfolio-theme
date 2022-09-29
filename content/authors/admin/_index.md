@@ -68,7 +68,7 @@ social:
     link: https://www.linkedin.com/in/bo-yin-453760251/
   - icon: zhihu
     icon_pack: fab
-    link: 
+    link: https://www.zhihu.com/people/bborgyin96
 
 # Uncomment below for Github link
 #- icon: github
