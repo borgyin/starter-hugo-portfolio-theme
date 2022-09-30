@@ -14,7 +14,7 @@ design:
 
 
 Mr. Yin (Member, IEEE) was born in Hunan Province, China, in 1996. He received the B.Eng. in information engineering and M.Eng. degrees in information and communication engineering from South China University of Technology, Guangzhou, China, in 2019 and 2022, respectively. 
-He is currently pursuing a Ph.D. degree in Electronics and ICT Engineering Technology, with The Faculty of Engineering and Architecture, Department of Information Technology at Ghent University, Belgium.
+He is currently pursuing a Ph.D. degree in Electronics and ICT Engineering Technology, with The Faculty of Engineering and Architecture, Department of Information Technology, [WAVES](https://www.waves.intec.ugent.be/), at Ghent University.
 
 My research interests include wireless communications, machine learning, and convex optimization.
 
