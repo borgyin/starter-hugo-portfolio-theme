@@ -50,6 +50,7 @@ South China University of Technology
 {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, Sept. 2015 - Jul. 2019
 
 South China University of Technology
+
 [//]: # ({{< spoiler text="" >}})
 
 [//]: # (- Linear Algebra & Analytic Geometry: 100 )
