@@ -13,7 +13,7 @@ design:
   columns: '1'
 ---
 
--
+- 2019 - 2022
 {{< spoiler text="" >}}
 - Linear Algebra & Analytic Geometry: 100 
 - Probability & Mathematical Statistics: 95
@@ -23,11 +23,6 @@ design:
 - Software Engineering: 91
 {{< /spoiler >}}
 
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
+- 2018 - 2019
+- 2017 - 2018
+
