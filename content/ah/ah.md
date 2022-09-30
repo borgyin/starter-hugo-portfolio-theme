@@ -14,9 +14,9 @@ design:
 ---
 
 - 2019 - 2022
-  - China Scholarship Council (CSC)
-  - Award of Excellent Student Cadre, SCUT
-  - Award of Outstanding Contribution for Postgraduate Work, SCUT
+  + China Scholarship Council (CSC)
+  + Award of Excellent Student Cadre, SCUT
+  + Award of Outstanding Contribution for Postgraduate Work, SCUT
 
 
 - 2018 - 2019
