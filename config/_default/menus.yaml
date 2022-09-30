@@ -10,7 +10,7 @@ main:
   - name: Biography
     url: about/
     weight: 20
-  - name: Awards & Honors
+  - name: Honors & Awards
     url: ah/
     weight: 25
   - name: Publications
