@@ -27,7 +27,7 @@ design:
 - National Scholarship
 - Second Prize in One-hundred-step Ladder Climbing Plan, SCUT
 
-**2016 - 2017**
+**2015 - 2017**
 - Award of Merit Student, SCUT
 - Award of Excellent Student Cadre, SCUT
 - National Scholarship
