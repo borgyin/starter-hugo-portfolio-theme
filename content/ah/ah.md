@@ -24,8 +24,8 @@ design:
 - Chongqing Scholar Scholarship
 
 **2017 - 2018**
-National Scholarship
-Second Prize in One-hundred-step Ladder Climbing Plan, SCUT
+- National Scholarship
+- Second Prize in One-hundred-step Ladder Climbing Plan, SCUT
 
 **2016 - 2017**
 - Award of Merit Student, SCUT
