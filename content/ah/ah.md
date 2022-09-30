@@ -5,7 +5,7 @@ headless: true
 
 weight: 10
 
-title:
+title: 
 
 design:
   view: citation
