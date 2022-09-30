@@ -25,11 +25,11 @@ My research interests include wireless communications, machine learning, and con
 
 {{< icon name="graduation-cap" pack="fas" >}} Ph.D. in **Electronics and ICT Engineering Technology**, Oct. 2022 - now
 
-Ghent University
+Ghent University (Ugent)
 
 {{< icon name="graduation-cap" pack="fas" >}} M.Eng. in **Information and Communication Engineering**, Sept. 2019 - Jul. 2022
 
-South China University of Technology
+South China University of Technology (SCUT)
 
 [//]: # ({{< spoiler text="" >}})
 
@@ -49,7 +49,7 @@ South China University of Technology
 
 {{< icon name="graduation-cap" pack="fas" >}} B.Eng. in **Information Engineering**, Sept. 2015 - Jul. 2019
 
-South China University of Technology
+South China University of Technology (SCUT)
 
 [//]: # ({{< spoiler text="" >}})
 
