@@ -22,3 +22,12 @@ design:
 - Basic Theory of Information: 93
 - Software Engineering: 91
 {{< /spoiler >}}
+
+- d
+- d
+- d
+- d
+- d
+- d
+- d
+- d
