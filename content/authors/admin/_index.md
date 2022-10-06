@@ -56,7 +56,7 @@ social:
     link: https://www.instagram.com/bborg.yin/
   - icon: github
     icon_pack: fab
-    link: https://github.com/borgyin
+    link: https://github.com/ugboyin96
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-4784-7738
